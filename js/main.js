@@ -7,13 +7,24 @@ menuBtn.addEventListener('click', () => {
 
 
 const swiper = new Swiper('.projects__slider', {
- 
+ slidesPerView: 1,
+ spaceBetween: 20,
   loop: true,
 
-   // Navigation arrows
+ breakpoints: {
+        
+        640: {
+          slidesPerView: 2,          
+        },
+        1024: {
+          slidesPerView: 3,          
+        },
+      },
+   
+      // Navigation arrows   
   navigation: {
-    nextEl: '.swiper-button-next',
-    prevEl: '.swiper-button-prev',
+    nextEl: '.projects__arow-next',
+    prevEl: '.projects__arow-prev',
   },
 
 
