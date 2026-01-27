@@ -7,7 +7,7 @@ Architecture **сайт** для архитектуты вашего дома и
 
 
 ## Полезные ссылки
-- [Ссылка на деплой](https://github.com/vladimircvetov99-web/architecture).
+- [Ссылка на деплой](https://vladimircvetov99-web.github.io/architecture/).
 - [Ссылка на плэйлист](https://www.youtube.com/watch?v=4yCgTERoo9E).
 - [Ссылка на дизайн](https://www.figma.com/design/oZSvjF0vLkslBWPM6BqgnZ/Architecture?node-id=0-1&p=f&t=6S7N5ZfmBoRyR9C3-0).
 
